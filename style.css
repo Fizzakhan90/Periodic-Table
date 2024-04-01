@@ -1,0 +1,39 @@
+h1{
+    margin-left:-500px;
+   
+}
+body{
+    text-align: center;
+    font-weight: bold;
+}
+.one{
+    background-color: orange;
+    
+}
+.two{
+    background-color: rgb(214, 118, 158);
+}
+.three{
+    background-color: lightblue;
+}
+.four{
+    background-color: #BD9248;
+}
+.five{
+    background-color: blanchedalmond;
+}
+.six{
+    background-color: rgb(193, 231, 135);
+}
+.seven{
+     background-color: rgb(253, 253, 173);
+}
+.eight{
+    background-color: rgb(253, 230, 234);
+}
+.nine{
+    background-color: rgb(180, 206, 216);
+}
+#ten{
+    margin-left: 100px;
+}
